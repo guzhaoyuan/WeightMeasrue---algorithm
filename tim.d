@@ -1,0 +1,15 @@
+.\tim.o: tim.c
+.\tim.o: .\LIB\StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\tim.o: C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h
+.\tim.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h
+.\tim.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\tim.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h
+.\tim.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h
+.\tim.o: C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h
+.\tim.o: .\USER\stm32f10x_conf.h
+.\tim.o: .\LIB\StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\tim.o: .\LIB\StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\tim.o: C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h
+.\tim.o: .\LIB\StdPeriph_Driver\inc\stm32f10x_tim.h
+.\tim.o: .\LIB\StdPeriph_Driver\inc\stm32f10x_usart.h
+.\tim.o: .\LIB\StdPeriph_Driver\inc\misc.h

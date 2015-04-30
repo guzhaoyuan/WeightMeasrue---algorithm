@@ -1,0 +1,1 @@
+.\readad.o: ReadAD.c
